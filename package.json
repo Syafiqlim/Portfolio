@@ -46,7 +46,7 @@
       "last 1 safari version"
     ]
     "scripts": {
-  "build:digitalocean": "npm install --production=false && npm run build && npm ci"
+  "build:digitalocean": "npm install --production=false && npm audit fix --force && npm run build && npm ci"
 }
   }
 }
