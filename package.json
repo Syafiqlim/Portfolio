@@ -22,6 +22,12 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
+  {
+  "engines": {
+    "node": "20.11.0",
+    "npm" : "10.2.4"
+  }
+}
   "scripts": {
       "build:digitalocean": "npm install -g npm@10.5.0 && npm audit fix --force && npm run build && npm ci",
     "start": "react-scripts start",
