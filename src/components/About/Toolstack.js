@@ -7,6 +7,7 @@ import {
   SiKicad,
   SiWindows11,
   SiGooglecloud ,
+  SiVercel,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -24,6 +25,9 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiKicad />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVercel />
+        </Col>
       <Col xs={4} md={2} className="tech-icons">
         <FaDigitalOcean />
       </Col>
