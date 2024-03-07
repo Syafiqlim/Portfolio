@@ -15,7 +15,7 @@ function Footer() {
           <h3>For my professional portfolio</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} | syafiqlim.tech</h3>
+          <h3>Copyright © {year} | syafiqlim.site</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

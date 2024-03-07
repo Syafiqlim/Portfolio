@@ -18,7 +18,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Electronic (Computer) Engineering student
-              with passion and knowledge in programming. 
+              with passion and knowledge in programming. (Click 3 lines on the top left to see more about me)
               <br />
               <br />Programming Languages that I am great in are
               <i>

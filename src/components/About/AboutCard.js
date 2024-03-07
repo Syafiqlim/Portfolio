@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            I'm <span className="purple">Syafiqlim </span>
+            I'm <span className="purple">Muhammad Syafiq Bin Muhammad Syafee Lim </span>
             from <span className="purple"> Melaka, Malaysia.</span>
             <br />
             I am currently a student at Politenik Merlimau, enrolling in Diploma Electronic (Computer) Engineering programme.
@@ -28,6 +28,9 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> Coursera Google Cybersecurity Professional Certificate (Ongoing)
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> MY5G Ericsson Malaysia Pioneers Program by Ericsson & DNB (Ongoing)
             </li>
             <li className="about-activity">
               <ImPointRight /> Google Cloud Skill Badges (2022-2023)
