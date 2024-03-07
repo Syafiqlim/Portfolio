@@ -32,7 +32,7 @@ function Projects() {
               isBlog={false}
               title="Final Year Project (Ongoing)"
               description="Cloud-based Hydroponic Plant Monitoring System"
-              ghLink="https://github.com/syafiqlim"
+              ghLink="https://github.com/syafiqlim/FYP"
             />
           </Col>
         </Row>
