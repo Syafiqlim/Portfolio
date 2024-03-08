@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Embedded Systems Enthusiast",
           "Arcitura Certified IoT Architect",
-          "Web Developer",
+          "Web Developer (Mostly Backend with Node.js)",
         ],
         autoStart: true,
         loop: true,
