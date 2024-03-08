@@ -29,10 +29,8 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={fyp}
-              isBlog={false}
               title="Final Year Project (Ongoing)"
-              description="Cloud-based Hydroponic Plant Monitoring System"
-              ghLink="https://github.com/syafiqlim/FYP"
+              description="Cloud-based Hydroponic Plant Monitoring System (E-Mail me to get to know my progression)"
             />
           </Col>
         </Row>
