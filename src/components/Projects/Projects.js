@@ -29,8 +29,8 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={fyp}
-              title="Final Year Project (Ongoing)"
-              description="Cloud-based Hydroponic Plant Monitoring System (E-Mail me to get to know my progression)"
+              title="Final Year Project (Done)"
+              description="Cloud-based Hydroponic Plant Monitoring System (fyp.syafiqlim.site) (Will be open-source soon)"
             />
           </Col>
         </Row>
