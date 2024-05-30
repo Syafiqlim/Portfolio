@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import github from "../../Assets/Projects/monika_sleepyface-removebg.png";
 import fyp from "../../Assets/Projects/fyp0.png";
+import ESP32_MySQL from "../../Assets/Projects/lib.jpg";
 
 function Projects() {
   return (
@@ -31,6 +32,13 @@ function Projects() {
               imgPath={fyp}
               title="Final Year Project (Done)"
               description="Cloud-based Hydroponic Plant Monitoring System (fyp.syafiqlim.site) (Will be open-source soon)"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ESP32_MySQL}
+              title="ESP32_MySQL library"
+              description="Published ESP32_MySQL library to Arduino Library Manager, for directly connect and execute SQL to MySQL database"
             />
           </Col>
         </Row>
