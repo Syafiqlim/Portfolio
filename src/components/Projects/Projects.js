@@ -39,6 +39,7 @@ function Projects() {
               imgPath={ESP32_MySQL}
               title="ESP32_MySQL library"
               description="Published ESP32_MySQL library to Arduino Library Manager, for directly connect and execute SQL to MySQL database"
+              ghLink="https://github.com/Syafiqlim/ESP32_MySQL"
             />
           </Col>
         </Row>
