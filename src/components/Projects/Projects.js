@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import github from "../../Assets/Projects/monika_sleepyface-removebg.png";
 import fyp from "../../Assets/Projects/fyp0.png";
-import ESP32_MySQL from "../../Assets/Projects/lib.jpg";
+import ESP32_MySQL from "../../Assets/Projects/lib0.png";
 
 function Projects() {
   return (
