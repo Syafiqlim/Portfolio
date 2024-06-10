@@ -6,7 +6,7 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "IOT & Embedded Systems Enthusiast",
+          "IoT & Embedded Systems Enthusiast",
           "Arcitura Certified IoT Architect",
           "Web Developer",
         ],
