@@ -7,14 +7,43 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            I'm <span className="purple">Muhammad Syafiq Bin Muhammad Syafee Lim </span>
-            from <span className="purple"> Melaka, Malaysia.</span>
+          <h4 style={{ textAlign: "justify" }}>
+            🧍 Muhammad Syafiq Bin Muhammad Syafee Lim
             <br />
-            I am currently a student at Politenik Merlimau, enrolling in Diploma Electronic (Computer) Engineering programme.
+            🏠 Melaka, Malaysia
+            <br />
+            👨‍🎓 Diploma Electronics (Computer) Engineering, Politeknik Merlimau
+            <br />
+            👨‍💻Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
             <br />
             <br />
-            Achievements and Certfications (Certs and badges verifications are available on LinkedIn)
+            </h4>
+            <h3 style={{textAlign: "justify"}}> 
+                Skills, Languages, Tools
+          </h3>
+          <ul>
+            <li className="about-activity">
+              <h4>Programming Languages : </h4>
+              <ImPointRight /> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), JavaScript, TypeScript, Python, SQL, Bash Scripting
+            </li>
+            <li className="about-activity">
+              <h4>IoT, Embedded & Electronic Skills : </h4>
+              <ImPointRight /> uC : Arduino-based uC, ESP32/8266, STM32-based uC, Raspberry Pi <br/>
+              <ImPointRight /> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br/>
+              <ImPointRight /> RTOS : FreeRTOS <br/>
+              <ImPointRight /> Debugging : JTAG, OpenOCD <br/>
+              <ImPointRight /> Electronic Circuits Design, PCB Design, THT & SMT Soldering, testing & troubleshooting (multimeter, oscilloscope)
+            </li>
+            <li className="about-activity">
+              <h4>Web Development Skills</h4>
+              <ImPointRight /> Front-End : HTML, CSS, JavaScript, React, Vite <br />
+              <ImPointRight /> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL
+            </li>
+          </ul>
+            <br />
+            <br />
+          <p style={{textAlign: "justify"}}> 
+                Achievements and Certfications (Certs and badges verifications are available on LinkedIn)
           </p>
           <ul>
             <li className="about-activity">
@@ -27,10 +56,10 @@ function AboutCard() {
               <ImPointRight /> WorldSkills Malaysia Belia Electronics Participant Certificate (2023)
             </li>
             <li className="about-activity">
-              <ImPointRight /> Coursera Google Cybersecurity Professional Certificate (Ongoing)
+              <ImPointRight /> EDIAs 32nd and PERKAYA 25th Gold (Best Innovation) Awardee
             </li>
             <li className="about-activity">
-              <ImPointRight /> MY5G Ericsson Malaysia Pioneers Program by Ericsson & DNB (Ongoing)
+              <ImPointRight /> Coursera Google Cybersecurity Professional Certificate (Ongoing)
             </li>
             <li className="about-activity">
               <ImPointRight /> Google Cloud Skill Badges (2022-2023)

@@ -14,25 +14,28 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              <span className="purple"> ABOUT </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Electronic (Computer) Engineering student
-              with passion and knowledge in programming. (Click 3 lines on the top left to see more about me)
+              👨‍🎓 Electronics (Computer) Engineering student (Politeknik Merlimau)
+              <br /> 👨‍💻 Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
               <br />
-              <br />Programming Languages that I am great in are
+              <br />Programming languages that I am great in are
               <i>
-                <b className="purple"> C (Embedded C : Arduino, STM32, PIC), C++, Node.js (JavaScript & TypeScript), MySQL, Python </b>
+                <b className="purple"> C/C++, Embedded C (Arduino-based, STM32-based, PIC18/32), Node.js (JavaScript & TypeScript), SQL, Python </b>
               </i>
               <br />
               <br />
               My fields of Interest are &nbsp;
               <i>
-                <b className="purple">Electronics, IoT and Web Development </b> and
+                <b className="purple">IoT, Embedded Systems, Electronics and Web Development tech-stack </b> and
                 also in any areas related to{" "}
                 <b className="purple">
                   Computer and Tech.
                 </b>
+                <br />
+                <br />
+                More in About (3 lines)
               </i>
               <br />
               <br />
