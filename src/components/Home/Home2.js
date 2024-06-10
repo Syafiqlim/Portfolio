@@ -22,7 +22,7 @@ function Home2() {
               <br />
               <br />Programming languages that I am great in are
               <i>
-                <b className="purple"> C/C++, Embedded C (Arduino-based, STM32-based, PIC18/32), Node.js (JavaScript & TypeScript), SQL, Python </b>
+                <b className="purple"> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), Node.js (JavaScript & TypeScript), SQL, Python </b>
               </i>
               <br />
               <br />
