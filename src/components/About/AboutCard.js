@@ -30,7 +30,7 @@ function AboutCard() {
             <br />
             <li className="about-activity">
               <h4 style={{fontWeight:'bold'}}>IoT, Embedded & Electronic Skills : </h4>
-              <ImPointRight /> uC : Arduino-based uC, ESP32/8266, STM32-based uC, Raspberry Pi <br/>
+              <ImPointRight /> uC : Arduino-based uC, ESP32/8266, STM32-based uC, PIC18/32-based uC, Raspberry Pi <br/>
               <ImPointRight /> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br/>
               <ImPointRight /> RTOS : FreeRTOS <br/>
               <ImPointRight /> Debugging : JTAG, OpenOCD <br/>
@@ -41,6 +41,16 @@ function AboutCard() {
               <h4 style={{fontWeight:'bold'}}>Web Development Skills</h4>
               <ImPointRight /> Front-End : HTML, CSS, JavaScript, React, Vite <br />
               <ImPointRight /> Back-End : Node.js (JavaScript, TypeScript), Express.js, MySQL
+            </li>
+            <br />
+            <li className="about-activity">
+              <h4 style={{fontWeight:'bold'}}>Linux Distro familiarities</h4>
+              <ImPointRight /> Debian-based, Ubuntu-based
+            </li>
+            <br />
+            <li className="about-activity">
+              <h4 style={{fontWeight:'bold'}}>Cloud Technology</h4>
+              <ImPointRight /> Google Cloud Platform, AWS, Digital Ocean, Vercel
             </li>
           </ul>
             <br />
