@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             👨‍🎓 Diploma Electronics (Computer) Engineering, Politeknik Merlimau
             <br />
-            👨‍💻Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+            👨‍💻R&D Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
             <br />
             <br />
             <br />
