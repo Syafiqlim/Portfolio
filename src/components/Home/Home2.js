@@ -18,7 +18,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               👨‍🎓 Electronics (Computer) Engineering student (Politeknik Merlimau)
-              <br /> 👨‍💻 Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+              <br /> 👨‍💻 R&D Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
               <br />
               <br />Programming languages that I am great in are
               <i>
