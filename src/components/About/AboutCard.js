@@ -18,7 +18,6 @@ function AboutCard() {
             <br />
             👨‍💻Engineer Intern (5 months) (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
             <br />
-            👨‍💻R&D Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
             <br />
             <br />
             <br />
@@ -40,7 +39,7 @@ function AboutCard() {
             <br />
             <br />
               <h4 style={{fontWeight:'bold'}}>Programming Languages : </h4>
-              <ImPointRight /> C/C++, Embedded C (Arduino-based, STM32-based, PIC18/32)
+              <ImPointRight /> C/C++, Embedded C (Arduino-based STM32-based, PIC18/32)
             </li>
             <br />
             <br />
