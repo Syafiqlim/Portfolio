@@ -18,10 +18,7 @@ function AboutCard() {
             <br />
             👨‍💻Engineer Intern (5 months) (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
             <br />
-<<<<<<< HEAD
-=======
             👨‍💻R&D Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
->>>>>>> 9b00766577b1ad629ef8e0679b25423849669f83
             <br />
             <br />
             <br />
@@ -33,12 +30,8 @@ function AboutCard() {
             <li className="about-activity">
               <li className="about-activity">
               <h4 style={{fontWeight:'bold'}}>IoT, Embedded & Electronic Skills : </h4>
-<<<<<<< HEAD
               <ImPointRight /> Schematic & PCB Design: KiCad, Altium Designer <br/>
               <ImPointRight /> uC : Arduino-based uC, ESP32/8266, STM32-based uC, PIC18/32-based uC, Raspberry Pi <br/>
-=======
-              <ImPointRight /> uC : Arduino-based uC, ESP32/8266, STM32-based uC, PIC18/32-based uC, Raspberry Pi, Pi Pico <br/>
->>>>>>> 9b00766577b1ad629ef8e0679b25423849669f83
               <ImPointRight /> Interfaces & Protocols : UART, I2C, SPI, BLE, WiFi, TCP/IP, UDP, HTTP/HTTPS, MQTT, GSM/LTE, 5G, LoRa, CoAP, Modbus, SSH <br/>
               <ImPointRight /> RTOS : FreeRTOS <br/>
               <ImPointRight /> Debugging : JTAG, OpenOCD <br/>
@@ -50,18 +43,6 @@ function AboutCard() {
               <ImPointRight /> C/C++, Embedded C (Arduino-based, STM32-based, PIC18/32)
             </li>
             <br />
-<<<<<<< HEAD
-=======
-            <li className="about-activity">
-              <h4 style={{fontWeight:'bold'}}>Software Development</h4>
-              <ImPointRight /> React Native, Electron, Kotlin
-            </li>
-            <br />
-            <li className="about-activity">
-              <h4 style={{fontWeight:'bold'}}>Linux Distro familiarities</h4>
-              <ImPointRight /> Debian-based, Ubuntu-based
-            </li>
->>>>>>> 9b00766577b1ad629ef8e0679b25423849669f83
             <br />
           </ul>
             <br />
