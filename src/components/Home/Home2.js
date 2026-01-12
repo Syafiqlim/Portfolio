@@ -17,25 +17,33 @@ function Home2() {
               <span className="purple"> ABOUT </span> MYSELF
             </h1>
             <p className="home-about-body">
+<<<<<<< HEAD
+              👨‍🎓 Diploma Electronics (Computer) Engineering (Politeknik Merlimau) (CGPA 3.79)
+              <br /> 👨‍💻 Assistant Engineer (1 year) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+              <br /> 👨‍💻 Engineer Intern (5 months) (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+              <br />
+              <br />I'm familiar with PCB Design (preferably using KiCad), also an hobbyist in PCB design and IoT Development.
+=======
               👨‍🎓 Electronics (Computer) Engineering student (Politeknik Merlimau)
-              <br /> 👨‍💻 Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+              <br /> 👨‍💻 R&D Engineer Intern (IoT & Embedded System Engineering) at iRadar Sdn Bhd (<a href="https://iradar.com.my/">iradar.com.my</a>)
+>>>>>>> 9b00766577b1ad629ef8e0679b25423849669f83
               <br />
               <br />Programming languages that I am great in are
               <i>
-                <b className="purple"> C/C++ (including C Preprocessor), Embedded C (Arduino-based, STM32-based, PIC18/32), Node.js (JavaScript & TypeScript), SQL, Python </b>
+                <b className="purple"> C/C++, Embedded C (Arduino-based, STM32-based, PIC18/32) </b>
               </i>
               <br />
               <br />
               My fields of Interest are &nbsp;
               <i>
-                <b className="purple">IoT, Embedded Systems, Electronics and Web Development tech-stack </b> and
+                <b className="purple">Electronics, computer and IoT </b> and
                 also in any areas related to{" "}
                 <b className="purple">
-                  Computer and Tech.
+                  Tech.
                 </b>
                 <br />
                 <br />
-                More in About (3 lines)
+                More in About
               </i>
               <br />
               <br />
